@@ -1,0 +1,9 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÔË£8ŠÒàˆİ2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ééÿÿÿÿÿ8ÿÒàˆİ2
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÑÔÍ8…Óàˆİ2
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æâî øÿÿÿÿ8‡Óàˆİ2
+o	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š´¢¥úÿÿÿÿ8‰Óàˆİ2
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¯Æùÿÿÿÿ8‹Óàˆİ2
+Q
+java:S1068"/Remove this unused "testContext" private field.(á¦¬ºüÿÿÿÿ8¸Óàˆİ2
